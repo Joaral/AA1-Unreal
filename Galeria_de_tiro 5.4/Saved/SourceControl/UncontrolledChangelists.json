@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/JoanArizaAlvarez/M01_UF4_Unreal/AA1-Unreal/Galeria_de_tiro 5.4/Content/FirstPerson/Blueprints/CuenteAtras.uasset",
+				"C:/Users/JoanArizaAlvarez/M01_UF4_Unreal/AA1-Unreal/Galeria_de_tiro 5.4/Content/FirstPerson/Blueprints/PLayerHUD.uasset",
+				"C:/Users/JoanArizaAlvarez/M01_UF4_Unreal/AA1-Unreal/Galeria_de_tiro 5.4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/JoanArizaAlvarez/M01_UF4_Unreal/AA1-Unreal/Galeria_de_tiro 5.4/Content/FirstPerson/Blueprints/BP_InicioCuentaAtras.uasset",
+				"D:/Documentos/GitHub/AA1-Unreal/Galeria_de_tiro/Content/FirstPerson/Blueprints/BP_InicioCuentaAtras.uasset",
+				"D:/Documentos/GitHub/AA1-Unreal/Galeria_de_tiro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/C2/7YJSQO562N8TL9SJ83TIKO.uasset"
+			]
+		}
+	]
+}
